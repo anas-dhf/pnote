@@ -8,6 +8,7 @@ pnote, can be downloaded for windows users via this [link](https://mega.nz/file/
 To compile it by yourself on windows, run the following:
 
 $ pip install pyinstaller
+
 $ pyinstaller --onefile --noconsole app.py
 
 The application will be named app, and will be located in the dist folder. 
